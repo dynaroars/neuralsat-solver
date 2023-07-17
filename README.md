@@ -29,11 +29,7 @@ Getting Started
 
 ## Usages
 
-- Navigate to *NeuralSAT* folder.
-
-```bash
-cd neuralsat/src
-```
+- Navigate to *NeuralSAT* `src` folder.
 
 - Minimal command
 
