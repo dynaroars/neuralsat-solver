@@ -11,10 +11,6 @@ Content
 ====================
 - ```src``` : Containing source code for *NeuralSAT*, demos, and selected benchmarks taken from [VNNCOMP'22](https://github.com/ChristopherBrix/vnncomp2022_benchmarks).
 
-- ```result```: Experiment related stuff (results, commands). 
-
-- ```vnncomp_scripts```: running script followed by rules of VNNCOMP. 
-
 Getting Started
 ====================
 
